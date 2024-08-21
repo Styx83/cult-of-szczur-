@@ -1,0 +1,60 @@
+body
+{
+	color: white;
+	background-color : black;
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+}
+#bottom
+{
+	margin:0 auto;
+	text-align: center;
+	align-content: center;
+	font-size: 30px;
+	color: #909090;
+}
+#carte
+{
+	width: 666px;
+	margin:0 auto;
+	padding-top: 50px;
+	text-align: left;
+	align-content: center;
+	font-size: 25px;
+	color: antiquewhite;
+	line-height: 50px
+}
+#titre
+{
+	color: red;
+	text-align: center;
+	font-size: 35px;
+	padding: 20px;
+}
+#BACK
+{
+	text-align: center;
+	font-size: 55px;
+	padding: 20px;
+}
+a:link {
+  color: #fa57ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color:    #fffd5c;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:  red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
